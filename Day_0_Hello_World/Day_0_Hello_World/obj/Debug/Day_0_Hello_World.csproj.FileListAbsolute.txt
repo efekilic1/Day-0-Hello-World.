@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/Day_0_Hello_World/Day_0_Hello_World/bin/Debug/Day_0_Hello_World.exe
+/Users/muhammedkilic/Projects/Day_0_Hello_World/Day_0_Hello_World/bin/Debug/Day_0_Hello_World.pdb
+/Users/muhammedkilic/Projects/Day_0_Hello_World/Day_0_Hello_World/obj/Debug/Day_0_Hello_World.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/Day_0_Hello_World/Day_0_Hello_World/obj/Debug/Day_0_Hello_World.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/Day_0_Hello_World/Day_0_Hello_World/obj/Debug/Day_0_Hello_World.exe
+/Users/muhammedkilic/Projects/Day_0_Hello_World/Day_0_Hello_World/obj/Debug/Day_0_Hello_World.pdb
